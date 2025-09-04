@@ -12,6 +12,9 @@ TechReader는 방대한 산업 기술 보고서를 빠르게 이해할 수 있�
 
 문서의 목차와 소제목을 반영한 RAG 파이프라인으로 맥락을 보존한 질문 응답을 제공합니다.
 
+<img width="1320" height="722" alt="image" src="https://github.com/user-attachments/assets/f5938762-089b-4e42-a178-f02cf2d512b2" />
+
+
 # 🚨 문제 정의
 
 기술 보고서는 수십~수백 페이지로 방대하여, 핵심 내용을 빠르게 정리하기 어렵습니다.
