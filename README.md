@@ -40,6 +40,9 @@
 # 📂 데이터 및 워크플로우
 ### 입력 데이터  
 - 테크너리라이브러리 산업 기술 보고서 PDF (예: Tech Guide, Tech Trend)  
+- 데이터의 문제점 : 목차 정보 부재 
+<img width="1330" height="695" alt="image" src="https://github.com/user-attachments/assets/37aa057e-dded-4586-9061-c49c4cafbe72" />
+
 
 ### 처리 과정  
 1. **PDF 업로드 & 변환** → LlamaParse로 Markdown 구조화  
