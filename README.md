@@ -117,7 +117,8 @@ PDF 문서
 - 데이터 분석, RAG 시스템 설계, Streamlit/Gradio UI 개발  
 ---
 🐾 키워드  
-RAG, LLM, LangChain, LlamaParse, FAISS, Gradio,  
-Tech Report Analysis, FAQ Generation, Q&A System,  
-Retrieval-Augmented Generation, Document Intelligence
+`RAG`, `LLM`, `LangChain`, `LlamaParse`, `FAISS`, `Gradio`,  
+`Tech Report Analysis`, `FAQ Generation`, `Q&A System`,  
+`Retrieval-Augmented Generation`, `Document Intelligence`
+
 
