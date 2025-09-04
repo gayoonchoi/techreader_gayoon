@@ -1,7 +1,7 @@
 # 📘 TechReader
 
 테크라이브러리 사이트에 등재된 AI 최신 동향 데이터를 다룬 문서 기반 RAG 시스템으로, <br>
-기술 보고서(PDF)를 업로드하면 문서 구조(목차·소제목)를 기반으로 섹션별 예상 질문·답변(Q&A)을 자동 생성해줍니다. <br>
+기술 보고서(PDF)를 업로드하면 문서 구조(목차·소제목)를 기반으로 섹션별 예상 질문·답변(Q&A)을 자동 생성해줍니다. <br> <br> 
 <img width="1192" height="635" alt="image" src="https://github.com/user-attachments/assets/cdeddc85-ddc0-41df-9a34-4e3081c1748d" />
 
 
