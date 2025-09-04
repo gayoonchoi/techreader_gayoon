@@ -77,3 +77,47 @@ PDF 문서
 * Vector DB: FAISS
 * LLM: OpenAI GPT API, Gemini 2.5 pro API 
 * UI: Gradio
+
+📌 Demo (Code & Documentation)  
+본 프로젝트의 데모 시연은 영상 대신, **FAQ 생성 및 RAG 기반 QA 파이프라인 전체 과정**을 담은 소스 코드와 프로젝트 설명서로 대체합니다.  
+
+---
+### PDF 문서 처리 및 RAG 파이프라인 구축
+- PDF → Markdown 변환 (LlamaParse)  
+- Chunk 단위 텍스트 분할 및 임베딩 생성  
+- FAISS Vector Store 구축 및 Retriever 연동  
+- main.ipynb  
+
+---
+### FAQ 예상 질문·답변 쌍 생성
+- 문서의 원본 Chunk 기반 One-shot 프롬프트 생성  
+- 예상 질문 리스트 및 자동 답변 생성  
+- CSV 파일로 Q&A 저장 (예상 FAQ 데이터셋 구축)  
+- main.ipynb  
+
+---
+### Gradio 기반 인터페이스
+- PDF 업로드 후 RAG 파이프라인 자동 실행  
+- 예상 질문 버튼 클릭 → 질의응답 수행  
+- 직접 질문 입력 가능  
+- 답변과 참고 페이지 표시  
+
+---
+### 프로젝트 설명서
+- 프로젝트 목적, 필요성, 시스템 워크플로우 정리  
+- PDF → Chunk → Vector DB → RAG QA → FAQ CSV 생성 과정 설명  
+- Gradio 데모 화면 포함  
+- (추가 예정: Notion/Docs 링크)  
+
+---
+🙋‍♀️ 개발자  
+**최가윤 (GAYOON CHOI)**  
+
+- 멀티모달 AI 프로젝트 진행  
+- 데이터 분석, RAG 시스템 설계, Streamlit/Gradio UI 개발  
+---
+🐾 키워드  
+RAG, LLM, LangChain, LlamaParse, FAISS, Gradio,  
+Tech Report Analysis, FAQ Generation, Q&A System,  
+Retrieval-Augmented Generation, Document Intelligence
+
