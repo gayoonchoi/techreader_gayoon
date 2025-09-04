@@ -15,11 +15,9 @@
 
 # 🚨 문제 정의
 
-기술 보고서는 수십~수백 페이지로 방대하여, 핵심 내용을 빠르게 정리하기 어렵습니다.
-
-기존 RAG 방식은 단순 chunk 검색만 제공해 문서의 구조적 맥락을 반영하지 못합니다.
-
-단순 요약은 학습·실무·인터뷰 대비에 충분하지 않으며, 구체적 질문 응답이 필요합니다. 
+* 기술 보고서는 수십~수백 페이지로 방대하여, 핵심 내용을 빠르게 정리하기 어렵습니다.
+* 기존 RAG 방식은 단순 chunk 검색만 제공해 문서의 구조적 맥락을 반영하지 못합니다.
+* 단순 요약은 학습·실무·인터뷰 대비에 충분하지 않으며, 구체적 질문 응답이 필요합니다. 
 
 <img width="1172" height="603" alt="image" src="https://github.com/user-attachments/assets/f491ca8f-c792-42f5-884d-a98492414375" />
 
@@ -27,11 +25,8 @@
 # 🙌 필요성 및 기대효과 
 
 📑 효율적 학습 지원: 방대한 문서에서도 핵심 Q&A를 빠르게 확보
-
 🤖 자동 질의응답 제공: 단순 요약을 넘어 실제 활용 가능한 질문·답변 생성
-
 🎯 실전 면접 대비: 예상 질문 세트를 통해 인터뷰 준비 시간 단축
-
 🚀 지식 재사용 강화: 문서 지식을 구조화하여 다양한 활용 가능 
 
 <img width="1173" height="613" alt="image" src="https://github.com/user-attachments/assets/d0231380-b747-4dab-9a00-8bec792d4010" />
@@ -73,14 +68,9 @@ PDF 문서
 
 # 🛠 기술 스택
 
-Parsing: LlamaParse
-
-Framework: LangChain
-
-Embedding: OpenAI Embeddings
-
-Vector DB: FAISS
-
-LLM: OpenAI GPT API
-
-UI: Streamlit / Gradio
+* Parsing: LlamaParse
+* Framework: LangChain
+* Embedding: OpenAI Embeddings
+* Vector DB: FAISS
+* LLM: OpenAI GPT API, Gemini 2.5 pro API 
+* UI: Gradio
