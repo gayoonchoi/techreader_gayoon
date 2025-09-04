@@ -66,6 +66,9 @@ PDF 문서
 [UI] → 사용자 확인
 
 
+📊 전체 구조 요약 
+
+
 # 🛠 기술 스택
 
 * Parsing: LlamaParse
