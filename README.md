@@ -1,7 +1,8 @@
 # 📘 TechReader
 
+테크라이브러리 사이트에 등재된 AI 최신 동향 데이터를 다룬 시스템으로, 
 기술 보고서(PDF)를 업로드하면 문서 구조(목차·소제목)를 기반으로 섹션별 예상 질문·답변(Q&A)을 자동으로 생성하는 RAG(Retrieval-Augmented Generation) 기반 문서 분석 시스템입니다.
-<img width="1364" height="723" alt="image" src="https://github.com/user-attachments/assets/a210fb6b-7250-4abb-9476-b7b2d38d27ad" />
+<img width="1162" height="565" alt="image" src="https://github.com/user-attachments/assets/8b0f2d1e-4494-4223-b96d-1364d200705c" />
 
 
 # 🔎 프로젝트 개요
