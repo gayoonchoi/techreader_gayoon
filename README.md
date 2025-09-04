@@ -123,7 +123,7 @@ PDF 문서
 **최가윤 (GAYOON CHOI)**  
 
 - 멀티모달 AI 프로젝트 진행  
-- 데이터 분석, RAG 시스템 설계, Streamlit/Gradio UI 개발  
+- 데이터 분석, RAG 시스템 설계, Gradio UI 개발  
 ---
 🐾 키워드  
 `RAG`, `LLM`, `LangChain`, `LlamaParse`, `FAISS`, `Gradio`,  
