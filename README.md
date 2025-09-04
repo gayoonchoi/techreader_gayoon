@@ -21,7 +21,7 @@
 
 단순 요약은 학습·실무·인터뷰 대비에 충분하지 않으며, 구체적 질문 응답이 필요합니다. 
 
-<img width="1174" height="620" alt="image" src="https://github.com/user-attachments/assets/f58483c7-681d-4166-a028-0efe60f88dc5" />
+<img width="1156" height="502" alt="image" src="https://github.com/user-attachments/assets/98cae725-e938-4dd5-b23e-ad0a24ef787a" />
 
 
 # 🙌 필요성 및 기대효과
@@ -34,7 +34,7 @@
 
 🚀 지식 재사용 강화: 문서 지식을 구조화하여 다양한 활용 가능 
 
-<img width="1164" height="626" alt="image" src="https://github.com/user-attachments/assets/2cab6fd1-cca2-4ea7-a02e-addc14a8dac3" />
+<img width="1152" height="528" alt="image" src="https://github.com/user-attachments/assets/dc312f0f-279c-45d3-aa7f-524acced1ea7" />
 
 
 # 💡 선택 동기
