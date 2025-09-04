@@ -44,13 +44,13 @@ TechLibrary 사이트에 등재된 AI 최신 동향 데이터를 다룬 문서 �
 ### 입력 데이터  
 - TechLibrary 산업 기술 보고서 PDF - 20p 분량 
 - 데이터의 문제점 : 목차 정보 부재
-- 데이터의 형태 변환 : PDF -> MD(Markdowm) -> csv 
+- 데이터의 형태 변환 : PDF -> MD(Markdowm) -> CSV 
 <img width="1330" height="695" alt="image" src="https://github.com/user-attachments/assets/37aa057e-dded-4586-9061-c49c4cafbe72" />
 
 ### 처리 과정  
 1. **PDF 업로드 & 변환** → LlamaParse로 Markdown 구조화  
 2. **문서 구조 인식** → MarkdownHeaderSplitter로 제목·소제목 추출  
-3. **Chunking & 임베딩** → OpenAI Embeddings + FAISS Vector Store  
+3. **Chunking & 임베딩** → OpenAI Embeddings + FAISS Vector Store   
 4. **질의응답 생성** → GPT 모델을 활용하여 예상 질문·답변 생성  
 5. **출력 제공** → 목차별 Q&A 형식으로 사용자에게 결과 제공
 
