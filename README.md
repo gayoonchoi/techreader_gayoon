@@ -21,10 +21,10 @@
 
 단순 요약은 학습·실무·인터뷰 대비에 충분하지 않으며, 구체적 질문 응답이 필요합니다. 
 
-<img width="1156" height="502" alt="image" src="https://github.com/user-attachments/assets/98cae725-e938-4dd5-b23e-ad0a24ef787a" />
+<img width="1172" height="603" alt="image" src="https://github.com/user-attachments/assets/f491ca8f-c792-42f5-884d-a98492414375" />
 
 
-# 🙌 필요성 및 기대효과
+# 🙌 필요성 및 기대효과 
 
 📑 효율적 학습 지원: 방대한 문서에서도 핵심 Q&A를 빠르게 확보
 
@@ -34,16 +34,8 @@
 
 🚀 지식 재사용 강화: 문서 지식을 구조화하여 다양한 활용 가능 
 
-<img width="1152" height="528" alt="image" src="https://github.com/user-attachments/assets/dc312f0f-279c-45d3-aa7f-524acced1ea7" />
+<img width="1173" height="613" alt="image" src="https://github.com/user-attachments/assets/d0231380-b747-4dab-9a00-8bec792d4010" />
 
-
-# 💡 선택 동기
-
-RAG 파이프라인은 많이 연구되었지만, 사용자 친화적 학습 도구로 확장된 사례는 부족합니다.
-
-개인적으로 기술 보고서를 학습하고 면접에 대비할 수 있는 맞춤형 Q&A 도구의 필요성을 느껴 프로젝트를 기획했습니다.
-
-최신 기술 스택(LlamaParse, OpenAI API, LangChain, FAISS)을 직접 적용해보고, 실제 활용 가능한 파이프라인을 구현하고자 했습니다.
 
 # 📂 데이터 및 워크플로우
 입력 데이터
