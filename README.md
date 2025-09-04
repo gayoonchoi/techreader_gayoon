@@ -44,7 +44,7 @@ TechLibrary 사이트에 등재된 AI 최신 동향 데이터를 다룬 문서 �
 ### 입력 데이터  
 - TechLibrary 산업 기술 보고서 PDF - 20p 분량 
 - 데이터의 문제점 : 목차 정보 부재
-- 데이터의 형태 변환 : PDF -> MD(Markdowm) -> CSV 
+- 데이터의 형태 변환 : PDF → MD(Markdowm) → CSV 
 <img width="1330" height="695" alt="image" src="https://github.com/user-attachments/assets/37aa057e-dded-4586-9061-c49c4cafbe72" />
 
 ### 처리 과정  
