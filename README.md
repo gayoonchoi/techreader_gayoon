@@ -38,21 +38,15 @@
 
 
 # 📂 데이터 및 워크플로우
-입력 데이터
+### 입력 데이터  
+- 테크너리라이브러리 산업 기술 보고서 PDF (예: Tech Guide, Tech Trend)  
 
-산업 기술 보고서 PDF (예: Tech Guide, Tech Trend)
-
-처리 과정
-
-PDF 업로드 & 변환 → LlamaParse로 Markdown 구조화
-
-문서 구조 인식 → MarkdownHeaderSplitter로 제목·소제목 추출
-
-Chunking & 임베딩 → OpenAI Embeddings + FAISS Vector Store
-
-질의응답 생성 → GPT 모델을 활용하여 예상 질문·답변 생성
-
-출력 제공 → 목차별 Q&A 형식으로 사용자에게 결과 제공
+### 처리 과정  
+1. **PDF 업로드 & 변환** → LlamaParse로 Markdown 구조화  
+2. **문서 구조 인식** → MarkdownHeaderSplitter로 제목·소제목 추출  
+3. **Chunking & 임베딩** → OpenAI Embeddings + FAISS Vector Store  
+4. **질의응답 생성** → GPT 모델을 활용하여 예상 질문·답변 생성  
+5. **출력 제공** → 목차별 Q&A 형식으로 사용자에게 결과 제공
 
 # ⚙️ 시스템 아키텍처
 
