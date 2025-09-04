@@ -65,6 +65,7 @@ Chunking & 임베딩 → OpenAI Embeddings + FAISS Vector Store
 출력 제공 → 목차별 Q&A 형식으로 사용자에게 결과 제공
 
 # ⚙️ 시스템 아키텍처
+
 PDF 문서
    │
    ▼
@@ -81,6 +82,7 @@ PDF 문서
    │
    ▼
 [UI] → 사용자 확인
+
 
 # 🛠 기술 스택
 
