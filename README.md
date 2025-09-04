@@ -1,6 +1,9 @@
 # 📘 TechReader
 
-기술 보고서(PDF)를 업로드하면 문서 구조(목차·소제목)를 기반으로 **섹션별 예상 질문·답변(Q&A)**을 자동으로 생성하는 RAG(Retrieval-Augmented Generation) 기반 문서 분석 시스템입니다.
+기술 보고서(PDF)를 업로드하면 문서 구조(목차·소제목)를 기반으로 섹션별 예상 질문·답변(Q&A)을 자동으로 생성하는 RAG(Retrieval-Augmented Generation) 기반 문서 분석 시스템입니다. 
+<img width="1364" height="723" alt="image" src="https://github.com/user-attachments/assets/a210fb6b-7250-4abb-9476-b7b2d38d27ad" />
+
+
 
 # 🔎 프로젝트 개요
 
