@@ -91,6 +91,8 @@ PDF 문서
 
 ### 3. 시스템 아키텍처 
 
+<img width="1300" height="668" alt="image" src="https://github.com/user-attachments/assets/2e07e407-7eea-4750-8821-6b47b120fa85" />
+
 <img width="1317" height="716" alt="image" src="https://github.com/user-attachments/assets/6404be99-92b5-463f-bd03-95af2c47f8ff" />
 
 <img width="1156" height="640" alt="image" src="https://github.com/user-attachments/assets/bde89062-0277-4ce7-b421-2210cd9e5e85" />
