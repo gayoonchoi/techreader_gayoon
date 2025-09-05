@@ -89,8 +89,11 @@ PDF 문서
 단순한 Tool 이 아니라, " 업계 흐름을 빠르게 파악할 수 있는 개인 Research 도구"로 발전할 수 있습니다. <BR>
 <img width="1076" height="566" alt="image" src="https://github.com/user-attachments/assets/22f1f84d-0edf-4c14-b241-b12c75ead093" />
 
-### 3. 이미지 
+### 3. 시스템 아키텍처 
 워크플로우 삽화 
+
+### 4. 사용자 화면 
+
 
 # 🛠 기술 스택
 
