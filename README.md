@@ -142,7 +142,7 @@ PDF 문서
 
 
 ### 5. 데모 및 시연 영상 
-- [(TechReader_Demo 링크)  ] (https://drive.google.com/file/d/1VmbzKioFHTNQPsLeX0Z6sON4dRZJsaCF/view?usp=sharing) 
+- [(TechReader_Demo 링크)  ](https://drive.google.com/file/d/1VmbzKioFHTNQPsLeX0Z6sON4dRZJsaCF/view?usp=sharing) 
 
 
 ---
