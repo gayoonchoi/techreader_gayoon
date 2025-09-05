@@ -104,7 +104,7 @@ PDF 문서
 
 * Parsing: LlamaParse
 * Framework: LangChain
-* Embedding: OpenAI Embeddings
+* Embedding: OpenAI Embeddings, Upstage Embeddings 
 * Vector DB: FAISS
 * LLM: OpenAI GPT API, Gemini 2.5 pro API 
 * UI: Gradio
