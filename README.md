@@ -93,7 +93,7 @@ PDF 문서
 워크플로우 삽화 
 
 ### 4. 사용자 화면 
-
+<img width="1169" height="629" alt="image" src="https://github.com/user-attachments/assets/5c876498-fe09-45c6-b43a-6d09e1783c78" />
 
 # 🛠 기술 스택
 
