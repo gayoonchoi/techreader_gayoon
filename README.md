@@ -34,27 +34,27 @@ TechLibrary 사이트에 등재된 AI 최신 동향 데이터를 다룬 문서 �
 
 # 📂 데이터 및 워크플로우
 
-### 사용할 RAG 문서 및 데이터
+### 1. 사용할 RAG 문서 및 데이터
 * 데이터 출처 <BR>
 	(1) RAG 비법노트(교재) – 개인 학습 자료, 공개 불가. <BR>
 	(2) Tech Library 최신 보고서 「LLM 이후를 설계하다 – 생성형 AI의 과제와 대안 찾기」 – 기업 계정 기반 로그인 후 다운로드, 공개 불가. <BR>
 * 데이터 형태: PDF (텍스트 중심)
 * ⚠️ 주의: 저작권 문제로 데이터 자체는 공개하지 않음. 다만, RAG 파이프라인 코드와 실습 과정은 GitHub에 공개 
 
-### 입력 데이터  
+### 2. 입력 데이터  
 - TechLibrary 산업 기술 보고서 PDF - 20p 분량 
 - 데이터의 문제점 : 목차 정보 부재
 - 데이터의 형태 변환 : PDF → MD(Markdowm) → CSV 
 <img width="1330" height="695" alt="image" src="https://github.com/user-attachments/assets/37aa057e-dded-4586-9061-c49c4cafbe72" />
 
-### 처리 과정  
+### 3. 처리 과정  
 1. **PDF 업로드 & 변환** → LlamaParse로 Markdown 구조화  
 2. **문서 구조 인식** → MarkdownHeaderSplitter로 제목·소제목 추출  
 3. **Chunking & 임베딩** → OpenAI Embeddings + FAISS Vector Store   
 4. **질의응답 생성** → GPT 모델을 활용하여 예상 질문·답변 생성  
 5. **출력 제공** → 목차별 Q&A 형식으로 사용자에게 결과 제공
 
-### 시스템 워크플로우 
+### 4. 시스템 워크플로우 
 
 ```text
 PDF 문서
