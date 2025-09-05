@@ -141,7 +141,7 @@ PDF 문서
 - [(TechReader_Docs 링크)  ](https://docs.google.com/document/d/1Pwp0m0tAO7b8AZIOWxLAQ6f6WZB16jOj/edit?usp=sharing&ouid=102022774062133093304&rtpof=true&sd=true)
 
 ### 5. 데모 및 시연 영상  
-- [(TechReader_Demo 링크)  ] (https://drive.google.com/file/d/1VmbzKioFHTNQPsLeX0Z6sON4dRZJsaCF/view?usp=sharing) 
+- [(TechReader_Demo 링크)  ](https://drive.google.com/file/d/1VmbzKioFHTNQPsLeX0Z6sON4dRZJsaCF/view?usp=sharing) 
 
 
 ---
