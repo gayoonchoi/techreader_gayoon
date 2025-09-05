@@ -130,7 +130,7 @@ PDF 문서
 - 프로젝트 목적, 필요성, 시스템 워크플로우 정리  
 - PDF → Chunk → Vector DB → RAG QA → FAQ CSV 생성 과정 설명  
 - Gradio 데모 화면 포함  
-- [(추가 예정: Notion/Docs 링크)  ](https://docs.google.com/document/d/1Pwp0m0tAO7b8AZIOWxLAQ6f6WZB16jOj/edit?usp=sharing&ouid=102022774062133093304&rtpof=true&sd=true)
+- [(TechReader_Docs 링크)  ](https://docs.google.com/document/d/1Pwp0m0tAO7b8AZIOWxLAQ6f6WZB16jOj/edit?usp=sharing&ouid=102022774062133093304&rtpof=true&sd=true)
 
 ---
 🙋‍♀️ 개발자  
