@@ -85,6 +85,7 @@ PDF 문서
 | **확장성** | 이후 UI 고도화, 구독형 모델, 팀 단위 협업 기능 추가 가능 | 
 <br>
 즉, 단순한 Tool 이 아니라, " 업계 흐름을 빠르게 파악할 수 있는 개인 Research 도구"로 발전할 수 있습니다. 
+<img width="2160" height="1126" alt="image" src="https://github.com/user-attachments/assets/f6216b42-658a-4253-82a3-99642cb28ce9" />
 
 # 이미지 
 워크플로우 삽화 
