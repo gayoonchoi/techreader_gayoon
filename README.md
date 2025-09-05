@@ -142,6 +142,9 @@ PDF 문서
 
 
 ### 5. 데모 및 시연 영상 
+- 전체 검색과 목차 검색에서 사용한 쿼리 : "교사와 학생 모델의 차이점은 무엇인가?"
+- FAQ 검색 : "LLM 혼합 전략의 핵심은?"
+- FAQ 검색은 상위 엔지니어가 질문할 목록들을 빠르게 확인하고, 관련 질문들도 볼 수 있게 하였습니다. 
 - [(TechReader_Demo 링크)  ](https://drive.google.com/file/d/1VmbzKioFHTNQPsLeX0Z6sON4dRZJsaCF/view?usp=sharing) 
 
 
