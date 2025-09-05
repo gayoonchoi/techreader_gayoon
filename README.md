@@ -91,6 +91,7 @@ PDF 문서
 
 ### 3. 시스템 아키텍처 
 워크플로우 삽화 
+<img width="1156" height="640" alt="image" src="https://github.com/user-attachments/assets/bde89062-0277-4ce7-b421-2210cd9e5e85" />
 
 ### 4. 사용자 화면 
 <img width="1169" height="629" alt="image" src="https://github.com/user-attachments/assets/5c876498-fe09-45c6-b43a-6d09e1783c78" />
